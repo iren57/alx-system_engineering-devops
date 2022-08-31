@@ -1,1 +1,1 @@
- bye Betty
+Delete the directory
