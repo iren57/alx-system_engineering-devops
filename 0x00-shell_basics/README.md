@@ -1,1 +1,1 @@
-create script
+write a command
