@@ -1,3 +1,1 @@
-reate a script that counts the number of directo
-
-DME.mdn the PATH.
+Create a script that lists environment variables.
