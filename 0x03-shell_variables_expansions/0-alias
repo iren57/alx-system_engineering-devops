@@ -1,1 +1,2 @@
-alias ls="rm *"
+#!/bin/bash
+Create a script
